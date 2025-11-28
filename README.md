@@ -6,7 +6,7 @@
 
 ### Wat heb ik gemaakt?
 
-![image](Screenshot 2025-11-28 121257.png)
+![image](images/persona.png)
 
 ### Hoe heb ik dit gedaan?
 
