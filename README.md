@@ -12,19 +12,13 @@
 
 #### Gewoon, tekenen
 
-...
-
 ### Waar liep ik tegenaan?
 
 #### Niks, het is tekenen
 
-...
-
 ### Welke theorie of Unity-onderdelen heb ik geleerd of toegepast?
 
 #### Niks, Het is weer tekenen
-
-...
 
 ---
 
